@@ -1,0 +1,4 @@
+- 👋 Hallo, Ich bin Vodculen
+- 👀 Ich liebe Sprache lerne und code
+- 🌱 Ich lerne Python, C, C++, und Java
+- 😄 Er/Irh 
